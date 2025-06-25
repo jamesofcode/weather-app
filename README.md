@@ -15,3 +15,5 @@ If you are developing a production application, we recommend using TypeScript wi
 install react: npm create vite@latest weather-app
 next run the following: npm install 
 install tailwindcss
+install react-icons
+install react-router-dom
